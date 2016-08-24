@@ -1,0 +1,5 @@
+package vstorage.data.jpa;
+
+public class Initializer {
+
+}

@@ -1,0 +1,314 @@
+# Properties must use the following format : key|context|version=value
+# key = regular java property key
+# context = either jbosstools or devstudio
+# version = Major.Minor.Micro.Qualifier (without the timestamp)
+# or
+# version = Major.Minor.Micro
+# or
+# version = Major.Minor
+# or
+# version = Major
+#
+# version can be optional for a given context.
+# context can be optional (but version can't be set)
+#
+# JBOSS TOOLS
+# ===========
+
+##Discovery
+# =========
+
+### CI snapshot builds
+# master version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/neon/snapshots/updates/earlyaccess.properties/master/jbosstools-earlyaccess.properties
+jboss.discovery.directory.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/snapshots/builds/jbosstools-discovery.central_master/latest/all/repo/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/jbosstools-earlyaccess.properties
+jboss.central.webpage.url|jbosstools|4.4.1.Final=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/extras/
+
+### milestone staging
+# 4.4.neon version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/neon/snapshots/updates/earlyaccess.properties/4.4.neon/jbosstools-earlyaccess.properties
+#jboss.discovery.directory.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/staging/updates/discovery.earlyaccess/4.4.1.Final/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/staging/updates/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/staging/updates/discovery.earlyaccess/4.4.1.Final/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/neon/staging/updates/discovery.earlyaccess/4.4.1.Final/jbosstools-earlyaccess.properties
+#jboss.central.webpage.url|jbosstools|4.4.1.Final=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+#jboss.discovery.site.integration-stack.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.4.1.Final=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/extras/
+
+### latest milestone
+# 4.4.neon version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/neon/snapshots/updates/earlyaccess.properties/4.4.neon/jbosstools-earlyaccess.properties
+jboss.discovery.directory.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/neon/development/updates/discovery.earlyaccess/4.4.1.AM3/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/neon/development/updates/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/neon/development/updates/discovery.earlyaccess/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/neon/development/updates/discovery.earlyaccess/4.4.1.AM3/jbosstools-earlyaccess.properties
+jboss.central.webpage.url|jbosstools|4.4.1.AM3=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.4.1.AM3=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/extras/
+
+### latest stable
+# 4.4.neon version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/neon/snapshots/updates/earlyaccess.properties/4.4.neon/jbosstools-earlyaccess.properties
+jboss.discovery.directory.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/neon/stable/updates/discovery.earlyaccess/4.4.0.Final/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/neon/stable/updates/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/neon/stable/updates/discovery.earlyaccess/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/neon/stable/updates/discovery.earlyaccess/4.4.0.Final/jbosstools-earlyaccess.properties
+jboss.central.webpage.url|jbosstools|4.4.0=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.4.0=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/extras/
+
+#################################################################
+
+### CI snapshot builds from 4.3.x branch
+# 4.3.mars version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/mars/snapshots/updates/earlyaccess.properties/4.3.mars/jbosstools-earlyaccess.properties
+#jboss.discovery.directory.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/snapshots/builds/jbosstools-discovery.central_4.3.mars/latest/all/repo/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/jbosstools-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/extras/
+
+### milestone staging
+# 4.3.mars version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/mars/snapshots/updates/earlyaccess.properties/4.3.mars/jbosstools-earlyaccess.properties
+#jboss.discovery.directory.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/discovery.earlyaccess/4.3.1.CR1c/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/discovery.earlyaccess/4.3.1.CR1c/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/discovery.earlyaccess/4.3.1.CR1c/jbosstools-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.3.1.Final=http://download.jboss.org/jbosstools/mars/staging/updates/integration-stack/extras/
+### latest milestone
+# 4.3.mars version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/mars/snapshots/updates/earlyaccess.properties/4.3.mars/jbosstools-earlyaccess.properties
+#jboss.discovery.directory.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/discovery.earlyaccess/4.3.1.Final/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/earlyaccess/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/discovery.earlyaccess/4.3.1.Final/jbosstools-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/
+#jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/development/updates/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.3.1=http://download.jboss.org/jbosstools/mars/stable/updates/integration-stack/extras/
+
+### latest stable (Final)
+# 4.3.mars version of jbosstools-earlyaccess.properties should be edited here, so the discovery job can fetch it: http://download.jboss.org/jbosstools/mars/snapshots/updates/earlyaccess.properties/4.3.mars/jbosstools-earlyaccess.properties
+jboss.discovery.directory.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/discovery.earlyaccess/4.3.1.Final/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/earlyaccess/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/discovery.earlyaccess/4.3.1.Final/jbosstools-earlyaccess.properties
+jboss.discovery.site.integration-stack.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/stable/updates/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.3=http://download.jboss.org/jbosstools/mars/development/updates/integration-stack/extras/
+jboss.central.webpage.url|jbosstools|4.3=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=0.0.1-SNAPSHOT&e=zip&mustEndWith=.zip
+
+#################################################################
+
+### CI snapshot builds from 4.2.x branch
+jboss.discovery.directory.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/discovery/nightly/core/4.2.luna/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/discovery/nightly/core/4.2.luna/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/discovery/nightly/core/4.2.luna/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/discovery/nightly/core/4.2.luna/jbosstools-earlyaccess.properties
+jboss.discovery.site.integration-stack.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/updates/stable/luna/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/discovery/stable/integration-stack/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.2.4=http://download.jboss.org/jbosstools/updates/stable/luna/integration-stack/extras/
+
+### milestone staging
+#jboss.discovery.directory.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/discovery/staging/4.2.4.Final/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/staging/luna/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/discovery/staging/4.2.4.Final/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/discovery/staging/4.2.4.Final/jbosstools-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/discovery/stable/integration-stack/
+#jboss.discovery.site.integration-stack-extras.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/stable/luna/integration-stack/extras/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/development/luna/integration-stack/jboss-fuse-sap-tool-suite/7.3.0.Beta1/all/repo/
+### latest milestone
+#jboss.discovery.directory.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/development/luna/jbosstools-directory.xml
+#jboss.discovery.site.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/development/luna/
+#jboss.discovery.earlyaccess.site.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/earlyaccess/development/luna/
+#jboss.discovery.earlyaccess.list.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/updates/development/luna/jbosstools-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|jbosstools|4.2.4.Final=http://download.jboss.org/jbosstools/discovery/development/integration-stack/
+#jboss.discovery.site.integration-stack-sap.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/integration-stack/extras/
+
+### latest stable (Final)
+jboss.discovery.directory.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/jbosstools-directory.xml
+jboss.discovery.site.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/
+jboss.discovery.earlyaccess.site.url|jbosstools|4.2=http://download.jboss.org/jbosstools/earlyaccess/stable/luna/
+jboss.discovery.earlyaccess.list.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/jbosstools-earlyaccess.properties
+jboss.discovery.site.integration-stack.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/
+jboss.discovery.earlyaccess.site.integration-stack.url|jbosstools|4.2=http://download.jboss.org/jbosstools/discovery/stable/integration-stack/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|jbosstools|4.2=http://download.jboss.org/jbosstools/updates/stable/luna/integration-stack/extras/
+jboss.central.webpage.url|jbosstools|4.2=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=0.0.1-SNAPSHOT&e=zip&mustEndWith=.zip
+
+##Examples
+community.examples.url|jbosstools|4.4=http://download.jboss.org/jbosstools/examples/4/4/project-examples-empty.xml
+examples.categories.url|jbosstools|4.4=http://download.jboss.org/jbosstools/examples/4/4/project-examples-category.xml
+featured.examples.url|jbosstools|4.4=http://download.jboss.org/jbosstools/examples/4/4/project-examples-shared.xml
+maven.examples.url|jbosstools|4.4=http://download.jboss.org/jbosstools/examples/4/4/project-examples-community.xml
+portal.examples.url|jbosstools|4.4=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+
+community.examples.url|jbosstools|4.3=http://download.jboss.org/jbosstools/examples/4.3/project-examples-community-4.3.0.Beta2.xml
+examples.categories.url|jbosstools|4.3=http://download.jboss.org/jbosstools/examples/4.3/project-examples-category-4.3.xml
+featured.examples.url|jbosstools|4.3=http://download.jboss.org/jbosstools/examples/4.3/project-examples-shared-4.3.0.Beta2.xml
+maven.examples.url|jbosstools|4.3=http://download.jboss.org/jbosstools/examples/4.3/project-examples-maven-4.3.0.Beta2.xml
+portal.examples.url|jbosstools|4.3=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+quickstarts.search.query|jbosstools|4.3=http://dcp.jboss.org/v1/rest/search?content_provider=jboss-developer&content_provider=rht&field=target_product&field=github_repo_url&field=sys_description&field=sys_title&field=sys_tags&field=sys_type&field=experimental&field=git_download&field=prerequisites&field=quickstart_id&field=git_tag&field=git_commit&query=sys_type:(quickstart)&size=500
+
+community.examples.url|jbosstools|4.2=http://download.jboss.org/jbosstools/examples/project-examples-community-4.2.Beta2.xml
+examples.categories.url|jbosstools|4.2=http://download.jboss.org/jbosstools/examples/project-examples-category-4.2.xml
+featured.examples.url|jbosstools|4.2=http://download.jboss.org/jbosstools/examples/project-examples-shared-4.2.GA.xml
+maven.examples.url|jbosstools|4.2=http://download.jboss.org/jbosstools/examples/project-examples-maven-4.2.GA.xml
+maven.examples.url|jbosstools|4.2.0.Beta2=http://download.jboss.org/jbosstools/examples/project-examples-maven-4.2.Beta2.xml
+maven.examples.url|jbosstools|4.2.0.Beta3=http://download.jboss.org/jbosstools/examples/project-examples-maven-4.2.Beta3.xml
+portal.examples.url|jbosstools|4.2=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+quickstarts.search.query|jbosstools|4.2=http://dcp.jboss.org/v1/rest/search?content_provider=jboss-developer&content_provider=rht&field=target_product&field=github_repo_url&field=sys_description&field=sys_title&field=sys_tags&field=sys_type&field=experimental&field=git_download&field=prerequisites&field=quickstart_id&field=git_tag&field=git_commit&query=sys_type:(quickstart)&size=500
+
+
+#=======================#=======================#=======================#=======================
+
+
+# JBOSS DEVELOPER STUDIO
+#=======================
+
+##Discovery
+# =========
+
+### CI snapshots
+# master version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/10.0/snapshots/updates/earlyaccess.properties/master/devstudio-earlyaccess.properties
+jboss.discovery.directory.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/10.0/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/devstudio-directory.xml
+jboss.discovery.site.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/10.0/snapshots/builds/jbosstools-discovery.central_master/latest/all/repo/
+jboss.discovery.earlyaccess.site.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/10.0/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/
+jboss.discovery.earlyaccess.list.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/10.0/snapshots/builds/jbosstools-discovery.earlyaccess_master/latest/all/repo/devstudio-earlyaccess.properties
+jboss.central.webpage.url|devstudio|10.1.0.GA=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|devstudio|10.1.0.GA=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/extras/
+
+### milestone staging
+# 4.4.neon version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/10.0/snapshots/updates/earlyaccess.properties/4.4.neon/devstudio-earlyaccess.properties
+jboss.discovery.directory.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/10.0/staging/updates/discovery.earlyaccess/10.1.0.AM3/devstudio-directory.xml
+jboss.discovery.site.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/10.0/staging/updates/
+jboss.discovery.earlyaccess.site.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/10.0/staging/updates/discovery.earlyaccess/10.1.0.AM3/
+jboss.discovery.earlyaccess.list.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/10.0/staging/updates/discovery.earlyaccess/10.1.0.AM3/devstudio-earlyaccess.properties
+jboss.central.webpage.url|devstudio|10.1.0.AM3=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|devstudio|10.1.0.AM3=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/extras/
+
+
+### latest milestone
+# 4.4.neon version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/10.0/snapshots/updates/earlyaccess.properties/4.4.neon/devstudio-earlyaccess.properties
+jboss.discovery.directory.url|devstudio|10.0.0=https://devstudio.redhat.com/10.0/stable/updates/discovery.earlyaccess/10.0.0.GA/devstudio-directory.xml
+jboss.discovery.site.url|devstudio|10.0.0=https://devstudio.redhat.com/10.0/stable/updates/
+jboss.discovery.earlyaccess.site.url|devstudio|10.0.0=https://devstudio.redhat.com/10.0/stable/updates/discovery.earlyaccess/
+jboss.discovery.earlyaccess.list.url|devstudio|10.0.0=https://devstudio.redhat.com/10.0/stable/updates/discovery.earlyaccess/10.0.0.GA/devstudio-earlyaccess.properties
+jboss.central.webpage.url|devstudio|10.0.0=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+jboss.discovery.site.integration-stack.url|devstudio|10.0.0=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/
+jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|10.0.0=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/discovery/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|devstudio|10.0.0=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/extras/
+
+#################################################################
+
+### CI snapshots
+# 4.3.mars version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/9.0/snapshots/updates/earlyaccess.properties/4.3.mars/devstudio-earlyaccess.properties
+#jboss.discovery.directory.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/devstudio-directory.xml
+#jboss.discovery.site.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/snapshots/builds/jbosstools-discovery.central_4.3.mars/latest/all/repo/
+#jboss.discovery.earlyaccess.site.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/
+#jboss.discovery.earlyaccess.list.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/snapshots/builds/jbosstools-discovery.earlyaccess_4.3.mars/latest/all/repo/devstudio-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/extras/
+
+### milestone staging
+# 4.3.mars version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/9.0/snapshots/updates/earlyaccess.properties/4.3.mars/devstudio-earlyaccess.properties
+#jboss.discovery.directory.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/discovery.earlyaccess/9.1.0.CR1c/devstudio-directory.xml
+#jboss.discovery.site.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/
+#jboss.discovery.earlyaccess.site.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/discovery.earlyaccess/9.1.0.CR1c/
+#jboss.discovery.earlyaccess.list.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/discovery.earlyaccess/9.1.0.CR1c/devstudio-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|devstudio|9.1.0.GA=https://devstudio.redhat.com/9.0/staging/updates/integration-stack/extras/
+
+### latest milestone
+# 4.3.mars version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/9.0/snapshots/updates/earlyaccess.properties/4.3.mars/devstudio-earlyaccess.properties
+#jboss.discovery.directory.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/discovery.earlyaccess/9.1.0.GA/devstudio-directory.xml
+#jboss.discovery.site.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/
+#jboss.discovery.earlyaccess.site.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/earlyaccess/
+#jboss.discovery.earlyaccess.list.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/discovery.earlyaccess/9.1.0.GA/devstudio-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/integration-stack/discovery/
+#jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|9.1=https://devstudio.redhat.com/9.0/development/updates/integration-stack/discovery/earlyaccess/
+#jboss.discovery.site.integration-stack-sap.url|devstudio|9.1=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/extras/
+
+### latest stable (GA)
+# 4.3.mars version of devstudio-earlyaccess.properties should be edited here, so the discovery job can fetch it: https://devstudio.redhat.com/9.0/snapshots/updates/earlyaccess.properties/4.3.mars/devstudio-earlyaccess.properties
+jboss.discovery.directory.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/discovery.earlyaccess/9.1.0.GA/devstudio-directory.xml
+jboss.discovery.site.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/
+jboss.discovery.earlyaccess.site.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/earlyaccess/
+jboss.discovery.earlyaccess.list.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/discovery.earlyaccess/9.1.0.GA/devstudio-earlyaccess.properties
+jboss.discovery.site.integration-stack.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/
+jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/earlyaccess/
+jboss.discovery.site.integration-stack-sap.url|devstudio|9=https://devstudio.redhat.com/9.0/stable/updates/integration-stack/extras/
+jboss.central.webpage.url|devstudio|9=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=0.0.1-SNAPSHOT&e=zip&mustEndWith=.zip
+
+#################################################################
+
+### milestone staging (note: no CI available as they're only available on internal server)
+#jboss.discovery.directory.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-staging/devstudio-directory.xml
+#jboss.discovery.site.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-staging/
+#jboss.discovery.earlyaccess.site.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/earlyaccess/8.0-staging/
+#jboss.discovery.earlyaccess.list.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-staging/devstudio-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/earlyaccess/8.0-staging/
+### latest milestone
+#jboss.discovery.directory.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-development/devstudio-directory.xml
+#jboss.discovery.site.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-development/
+#jboss.discovery.earlyaccess.site.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/earlyaccess/8.0-development/
+#jboss.discovery.earlyaccess.list.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/updates/8.0-development/devstudio-earlyaccess.properties
+#jboss.discovery.site.integration-stack.url|devstudio|8.1.1.Final=https://devstudio.redhat.com/earlyaccess/8.0-development/
+
+### latest stable (GA)
+jboss.discovery.directory.url|devstudio|8=https://devstudio.redhat.com/updates/8.0/devstudio-directory.xml
+jboss.discovery.site.url|devstudio|8=https://devstudio.redhat.com/updates/8.0/
+jboss.discovery.earlyaccess.site.url|devstudio|8=https://devstudio.redhat.com/earlyaccess/8.0/
+jboss.discovery.earlyaccess.list.url|devstudio|8=https://devstudio.redhat.com/updates/8.0/devstudio-earlyaccess.properties
+jboss.discovery.site.integration-stack.url|devstudio|8=https://devstudio.redhat.com/updates/8.0/
+jboss.discovery.earlyaccess.site.integration-stack.url|devstudio|8=https://devstudio.redhat.com/earlyaccess/8.0/
+jboss.discovery.site.integration-stack-sap.url|devstudio|8=https://devstudio.redhat.com/updates/8.0/integration-stack/extras/
+jboss.central.webpage.url|devstudio|8=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=0.0.1-SNAPSHOT&e=zip&mustEndWith=.zip
+
+##Examples
+=======
+community.examples.url|devstudio|10=http://download.jboss.org/jbosstools/examples/4/4/project-examples-empty.xml
+examples.categories.url|devstudio|10=http://download.jboss.org/jbosstools/examples/4/4/project-examples-category-devstudio.xml
+featured.examples.url|devstudio|10=http://download.jboss.org/jbosstools/examples/4/4/project-examples-shared.xml
+maven.examples.url|devstudio|10=http://download.jboss.org/jbosstools/examples/4/4/project-examples-devstudio.xml
+portal.examples.url|devstudio|10=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+
+community.examples.url|devstudio|9=http://download.jboss.org/jbosstools/examples/4.3/project-examples-community-4.3.0.Beta2.xml
+examples.categories.url|devstudio|9=http://download.jboss.org/jbosstools/examples/4.3/project-examples-category-jbds-9.0.xml
+featured.examples.url|devstudio|9=http://download.jboss.org/jbosstools/examples/4.3/project-examples-shared-4.3.0.Beta2.xml
+maven.examples.url|devstudio|9=http://download.jboss.org/jbosstools/examples/4.3/project-examples-jbds90.Beta2.xml
+portal.examples.url|devstudio|9=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+quickstarts.search.query|devstudio|9=http://dcp.jboss.org/v1/rest/search?content_provider=jboss-developer&content_provider=rht&field=target_product&field=github_repo_url&field=sys_description&field=sys_title&field=sys_tags&field=sys_type&field=experimental&field=git_download&field=prerequisites&field=quickstart_id&field=git_tag&field=git_commit&query=sys_type:(quickstart)&size=500
+
+community.examples.url|devstudio|9.0.0.Beta1=http://download.jboss.org/jbosstools/examples/4.3/project-examples-community-4.3.0.Beta1.xml
+featured.examples.url|devstudio|9.0.0.Beta1=http://download.jboss.org/jbosstools/examples/4.3/project-examples-shared-4.3.0.Beta1.xml
+maven.examples.url|devstudio|9.0.0.Beta1=http://download.jboss.org/jbosstools/examples/4.3/project-examples-jbds90.Beta1.xml
+
+community.examples.url|devstudio|8=http://download.jboss.org/jbosstools/examples/project-examples-community-4.2.Beta2.xml
+examples.categories.url|devstudio|8=http://download.jboss.org/jbosstools/examples/project-examples-category-jbds-8.0.xml
+featured.examples.url|devstudio|8=http://download.jboss.org/jbosstools/examples/project-examples-shared-4.2.GA.xml
+maven.examples.url|devstudio|8=http://download.jboss.org/jbosstools/examples/project-examples-jbds80.xml
+maven.examples.url|devstudio|8.0.0.Beta2=http://download.jboss.org/jbosstools/examples/project-examples-jbds80.xml
+maven.examples.url|devstudio|8.0.0.Beta3=http://download.jboss.org/jbosstools/examples/project-examples-jbds80.Beta3.xml
+portal.examples.url|devstudio|8=http://download.jboss.org/gatein/quickstarts/jboss-portal-6.2/project-examples-jboss-portal6.2-jbds8.0-001.xml
+quickstarts.search.query|devstudio|8=http://dcp.jboss.org/v1/rest/search?content_provider=jboss-developer&content_provider=rht&field=target_product&field=github_repo_url&field=sys_description&field=sys_title&field=sys_tags&field=sys_type&field=experimental&field=git_download&field=prerequisites&field=quickstart_id&field=git_tag&field=git_commit&query=sys_type:(quickstart)&size=500
+
+
+buzz.feed.url=http://planet.jboss.org/feeds/buzz
+jboss.central.webpage.url=https://repository.jboss.org/nexus/service/local/artifact/maven/redirect?r=public-jboss&g=org.jboss.tools.central&a=jbosstools-central-webpage&v=2.0.0-SNAPSHOT&e=zip&mustEndWith=.zip
+quickstarts.search.query=http://dcp2.jboss.org/v2/rest/search?size=500&content_provider=jboss-developer&content_provider=rht&field=target_product&field=github_repo_url&field=sys_description&field=sys_title&field=sys_tags&field=sys_type&field=experimental&field=git_download&field=prerequisites&field=quickstart_id&field=git_tag&field=git_commit&sys_type=quickstart
+
+openshift.userdoc.url=http://tools.jboss.org/documentation/howto/openshift3_getting_started.html
+
+jboss.discovery.site.integration-stack-sap.feature=org.fusesource.ide.sap.feature.feature.group

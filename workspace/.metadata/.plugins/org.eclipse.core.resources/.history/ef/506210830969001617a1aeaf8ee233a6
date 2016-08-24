@@ -1,0 +1,14 @@
+package vstorage.data.jpa;
+
+import javax.annotation.PostConstruct;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Initializer {
+	@PostConstruct
+    public void init()
+    {
+       //org.hsqldb.util.DatabaseManagerSwing.main(new String[] { "--url","jdbc:hsqldb:mem:restdb", "--noexit" }); 
+    }
+}

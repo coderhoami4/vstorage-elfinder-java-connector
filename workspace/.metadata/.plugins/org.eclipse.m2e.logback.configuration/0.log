@@ -1,0 +1,979 @@
+2016-08-19 14:21:52,911 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-19 14:21:56,150 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vstorage/src/main/java
+2016-08-19 14:21:56,151 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/main/resources
+2016-08-19 14:21:56,152 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/main/resources
+2016-08-19 14:21:56,153 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vstorage/src/test/java
+2016-08-19 14:21:56,153 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/test/resources
+2016-08-19 14:21:56,968 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2016-08-19 14:21:59,154 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:21:59,158 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:21:59,159 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 14:21:59,169 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:21:59,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 14:24:25,789 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:24:25,791 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:24:25,791 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:24:25,793 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:24:25,794 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:26:26,353 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:26:26,353 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:26:26,353 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:26:26,354 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:26:26,355 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:27:49,008 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:27:49,013 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 14:27:49,014 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 14:27:49,018 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 14:27:49,019 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 14:28:38,883 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-19 14:28:38,908 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-19 15:38:19,190 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:38:19,192 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:38:19,193 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:38:19,197 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:38:19,197 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:46:54,638 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:46:54,638 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:46:54,638 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:46:54,640 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:46:54,641 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:11,593 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:11,594 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:11,594 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:47:11,596 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:11,596 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:28,107 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:28,108 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:28,108 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:28,110 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:28,111 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:40,403 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:40,404 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:40,404 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:47:40,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:40,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:44,287 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:44,287 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:44,288 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:47:44,289 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:44,289 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:51,111 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:51,112 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:47:51,112 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:47:51,114 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:47:51,114 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:48:00,892 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:48:00,893 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:48:00,893 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:48:00,895 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:48:00,895 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:48:37,918 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:48:37,919 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:48:37,919 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:48:37,921 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:48:37,921 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:49:47,274 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:49:47,275 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:49:47,275 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:49:47,279 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:49:47,279 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:57:29,552 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:57:29,552 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:57:29,552 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:57:29,553 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:57:29,553 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:59:00,341 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:59:00,342 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-19 15:59:00,342 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-19 15:59:00,345 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-19 15:59:00,345 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:25:17,383 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-23 14:25:17,674 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-23 14:42:55,706 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:42:55,725 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:42:55,726 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:42:55,744 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:42:55,764 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:43:16,656 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:43:16,661 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:43:16,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:43:16,664 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:43:16,665 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:51:31,044 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:51:31,045 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:51:31,046 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:51:31,053 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:51:31,054 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:51:43,434 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:51:43,435 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:51:43,435 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:51:43,437 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:51:43,438 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:04,533 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:04,533 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:04,534 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:52:04,535 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:04,535 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:16,905 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:16,905 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:16,905 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:52:16,907 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:16,907 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:19,807 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:19,808 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:52:19,808 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:52:19,810 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:52:19,810 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:05,163 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:05,163 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:05,164 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:56:05,166 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:05,167 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:11,542 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:11,542 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:11,543 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:56:11,544 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:11,544 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:43,514 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:43,515 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:56:43,515 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:56:43,517 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:56:43,517 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:58:43,725 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:58:43,725 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:58:43,726 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:58:43,727 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:58:43,728 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:59:06,267 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:59:06,268 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:59:06,268 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:59:06,269 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:59:06,270 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:59:33,713 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:59:33,713 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 14:59:33,714 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 14:59:33,715 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 14:59:33,716 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:07:13,409 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:07:13,409 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:07:13,410 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:07:13,411 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:07:13,411 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:11:39,322 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:11:39,322 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:11:39,322 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:11:39,323 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:11:39,325 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:13:28,879 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:13:28,880 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:13:28,880 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:13:28,883 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:13:28,884 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:13:45,864 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:13:45,864 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:13:45,864 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:13:45,865 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:13:45,866 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:16:19,961 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:16:19,962 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:16:19,962 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:16:19,963 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:16:19,963 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:17:49,815 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-23 15:17:49,815 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-23 15:21:24,698 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:24,699 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:24,699 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:24,700 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:24,700 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:21:32,532 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:32,532 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:32,533 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:32,534 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:32,534 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:21:45,871 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:45,871 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:45,871 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:21:45,873 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:21:45,873 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:24:25,434 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:24:25,434 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:24:25,435 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:24:25,435 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:24:25,436 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:25:58,016 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.0.2.RELEASE/spring-data-rest-webmvc-2.0.2.RELEASE-sources.jar
+2016-08-23 15:25:58,816 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.0.2.RELEASE/spring-data-rest-webmvc-2.0.2.RELEASE-sources.jar
+2016-08-23 15:25:59,410 [Worker-50] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:2.0.2.RELEASE
+2016-08-23 15:25:59,928 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:25:59,928 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:25:59,928 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:25:59,930 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:25:59,930 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:33,021 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:33,022 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:33,022 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:33,023 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:33,023 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:28:36,251 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-23 15:28:36,252 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-23 15:28:52,682 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-23 15:28:53,823 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:53,824 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:53,824 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:53,826 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:53,827 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:55,974 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:55,975 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:28:55,976 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:28:55,984 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:28:55,985 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-23 15:32:55,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:32:55,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:32:55,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:32:55,301 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:32:55,301 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:33:06,704 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:33:06,705 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:33:06,706 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:33:06,707 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:33:06,707 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:36:20,072 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.3.3.RELEASE/spring-boot-starter-parent-1.3.3.RELEASE.pom
+2016-08-23 15:36:20,288 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.3.3.RELEASE/spring-boot-starter-parent-1.3.3.RELEASE.pom
+2016-08-23 15:36:20,512 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.3.3.RELEASE/spring-boot-dependencies-1.3.3.RELEASE.pom
+2016-08-23 15:36:21,168 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.3.3.RELEASE/spring-boot-dependencies-1.3.3.RELEASE.pom
+2016-08-23 15:36:21,467 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Gosling-SR4/spring-data-releasetrain-Gosling-SR4.pom
+2016-08-23 15:36:21,680 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Gosling-SR4/spring-data-releasetrain-Gosling-SR4.pom
+2016-08-23 15:36:21,894 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.7.4.RELEASE/spring-data-build-1.7.4.RELEASE.pom
+2016-08-23 15:36:22,108 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.7.4.RELEASE/spring-data-build-1.7.4.RELEASE.pom
+2016-08-23 15:36:22,323 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.2.5.RELEASE/spring-integration-bom-4.2.5.RELEASE.pom
+2016-08-23 15:36:22,538 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.2.5.RELEASE/spring-integration-bom-4.2.5.RELEASE.pom
+2016-08-23 15:36:22,757 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.0.3.RELEASE/spring-security-bom-4.0.3.RELEASE.pom
+2016-08-23 15:36:22,992 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.0.3.RELEASE/spring-security-bom-4.0.3.RELEASE.pom
+2016-08-23 15:36:24,142 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.3.3.RELEASE/spring-boot-maven-plugin-1.3.3.RELEASE.pom
+2016-08-23 15:36:24,359 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.3.3.RELEASE/spring-boot-maven-plugin-1.3.3.RELEASE.pom
+2016-08-23 15:36:24,579 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/1.3.3.RELEASE/spring-boot-tools-1.3.3.RELEASE.pom
+2016-08-23 15:36:24,793 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/1.3.3.RELEASE/spring-boot-tools-1.3.3.RELEASE.pom
+2016-08-23 15:36:25,008 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.3.3.RELEASE/spring-boot-parent-1.3.3.RELEASE.pom
+2016-08-23 15:36:25,428 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.3.3.RELEASE/spring-boot-parent-1.3.3.RELEASE.pom
+2016-08-23 15:36:25,668 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.3.3.RELEASE/spring-boot-maven-plugin-1.3.3.RELEASE.jar
+2016-08-23 15:36:26,087 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.3.3.RELEASE/spring-boot-maven-plugin-1.3.3.RELEASE.jar
+2016-08-23 15:36:26,704 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.jar
+2016-08-23 15:36:27,034 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.jar
+2016-08-23 15:36:27,495 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.jar
+2016-08-23 15:36:27,737 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.jar
+2016-08-23 15:36:28,150 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
+2016-08-23 15:36:28,396 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
+2016-08-23 15:36:28,751 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.2/maven-deploy-plugin-2.8.2.jar
+2016-08-23 15:36:29,025 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.2/maven-deploy-plugin-2.8.2.jar
+2016-08-23 15:36:29,347 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.jar
+2016-08-23 15:36:30,204 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.jar
+2016-08-23 15:36:30,949 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-23 15:36:31,159 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.pom
+2016-08-23 15:36:31,372 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.pom
+2016-08-23 15:36:31,587 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.3.3.RELEASE/spring-boot-starters-1.3.3.RELEASE.pom
+2016-08-23 15:36:31,801 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.3.3.RELEASE/spring-boot-starters-1.3.3.RELEASE.pom
+2016-08-23 15:36:32,021 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.3.3.RELEASE/spring-boot-starter-1.3.3.RELEASE.pom
+2016-08-23 15:36:32,234 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.3.3.RELEASE/spring-boot-starter-1.3.3.RELEASE.pom
+2016-08-23 15:36:32,453 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.pom
+2016-08-23 15:36:32,668 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.pom
+2016-08-23 15:36:33,329 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.pom
+2016-08-23 15:36:33,965 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.pom
+2016-08-23 15:36:34,274 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.3.3.RELEASE/spring-boot-starter-logging-1.3.3.RELEASE.pom
+2016-08-23 15:36:34,489 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.3.3.RELEASE/spring-boot-starter-logging-1.3.3.RELEASE.pom
+2016-08-23 15:36:34,711 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.5/logback-classic-1.1.5.pom
+2016-08-23 15:36:34,949 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.5/logback-classic-1.1.5.pom
+2016-08-23 15:36:35,246 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.5/logback-parent-1.1.5.pom
+2016-08-23 15:36:35,469 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.5/logback-parent-1.1.5.pom
+2016-08-23 15:36:35,713 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.5/logback-core-1.1.5.pom
+2016-08-23 15:36:35,926 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.5/logback-core-1.1.5.pom
+2016-08-23 15:36:36,144 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.pom
+2016-08-23 15:36:36,373 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.pom
+2016-08-23 15:36:36,587 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.16/slf4j-parent-1.7.16.pom
+2016-08-23 15:36:36,801 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.16/slf4j-parent-1.7.16.pom
+2016-08-23 15:36:37,077 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.pom
+2016-08-23 15:36:37,294 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.pom
+2016-08-23 15:36:37,533 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.pom
+2016-08-23 15:36:37,756 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.pom
+2016-08-23 15:36:37,974 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.16/log4j-over-slf4j-1.7.16.pom
+2016-08-23 15:36:38,190 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.16/log4j-over-slf4j-1.7.16.pom
+2016-08-23 15:36:38,452 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.16/snakeyaml-1.16.pom
+2016-08-23 15:36:38,669 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.16/snakeyaml-1.16.pom
+2016-08-23 15:36:38,885 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.3.3.RELEASE/spring-boot-starter-aop-1.3.3.RELEASE.pom
+2016-08-23 15:36:39,099 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.3.3.RELEASE/spring-boot-starter-aop-1.3.3.RELEASE.pom
+2016-08-23 15:36:39,329 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.8/aspectjweaver-1.8.8.pom
+2016-08-23 15:36:39,542 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.8/aspectjweaver-1.8.8.pom
+2016-08-23 15:36:39,759 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.3.3.RELEASE/spring-boot-starter-jdbc-1.3.3.RELEASE.pom
+2016-08-23 15:36:39,975 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.3.3.RELEASE/spring-boot-starter-jdbc-1.3.3.RELEASE.pom
+2016-08-23 15:36:40,204 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.0.32/tomcat-jdbc-8.0.32.pom
+2016-08-23 15:36:40,421 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.0.32/tomcat-jdbc-8.0.32.pom
+2016-08-23 15:36:40,638 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.0.32/tomcat-juli-8.0.32.pom
+2016-08-23 15:36:40,850 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.0.32/tomcat-juli-8.0.32.pom
+2016-08-23 15:36:41,067 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.pom
+2016-08-23 15:36:41,282 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.pom
+2016-08-23 15:36:41,498 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.pom
+2016-08-23 15:36:41,713 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.pom
+2016-08-23 15:36:41,930 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.pom
+2016-08-23 15:36:42,146 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.pom
+2016-08-23 15:36:42,363 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2016-08-23 15:36:42,576 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2016-08-23 15:36:42,791 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-08-23 15:36:43,021 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-08-23 15:36:43,247 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2016-08-23 15:36:43,461 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2016-08-23 15:36:43,684 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2016-08-23 15:36:43,899 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2016-08-23 15:36:44,128 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom
+2016-08-23 15:36:44,392 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom
+2016-08-23 15:36:44,674 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE.pom
+2016-08-23 15:36:44,894 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE.pom
+2016-08-23 15:36:45,112 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.7.4.RELEASE/spring-data-parent-1.7.4.RELEASE.pom
+2016-08-23 15:36:45,349 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.7.4.RELEASE/spring-data-parent-1.7.4.RELEASE.pom
+2016-08-23 15:36:45,566 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.9.RELEASE/spring-framework-bom-4.1.9.RELEASE.pom
+2016-08-23 15:36:45,791 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.9.RELEASE/spring-framework-bom-4.1.9.RELEASE.pom
+2016-08-23 15:36:46,008 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE.pom
+2016-08-23 15:36:46,232 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE.pom
+2016-08-23 15:36:46,449 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.2.5.RELEASE/spring-orm-4.2.5.RELEASE.pom
+2016-08-23 15:36:46,694 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.2.5.RELEASE/spring-orm-4.2.5.RELEASE.pom
+2016-08-23 15:36:46,909 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.2.5.RELEASE/spring-aspects-4.2.5.RELEASE.pom
+2016-08-23 15:36:47,125 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.2.5.RELEASE/spring-aspects-4.2.5.RELEASE.pom
+2016-08-23 15:36:47,342 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/1.3.3.RELEASE/spring-boot-starter-data-rest-1.3.3.RELEASE.pom
+2016-08-23 15:36:47,597 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/1.3.3.RELEASE/spring-boot-starter-data-rest-1.3.3.RELEASE.pom
+2016-08-23 15:36:47,818 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.3.3.RELEASE/spring-boot-starter-web-1.3.3.RELEASE.pom
+2016-08-23 15:36:48,034 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.3.3.RELEASE/spring-boot-starter-web-1.3.3.RELEASE.pom
+2016-08-23 15:36:48,299 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.3.3.RELEASE/spring-boot-starter-tomcat-1.3.3.RELEASE.pom
+2016-08-23 15:36:48,513 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.3.3.RELEASE/spring-boot-starter-tomcat-1.3.3.RELEASE.pom
+2016-08-23 15:36:48,757 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.32/tomcat-embed-core-8.0.32.pom
+2016-08-23 15:36:48,975 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.32/tomcat-embed-core-8.0.32.pom
+2016-08-23 15:36:49,191 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.32/tomcat-embed-el-8.0.32.pom
+2016-08-23 15:36:49,404 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.32/tomcat-embed-el-8.0.32.pom
+2016-08-23 15:36:49,619 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.32/tomcat-embed-logging-juli-8.0.32.pom
+2016-08-23 15:36:49,843 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.32/tomcat-embed-logging-juli-8.0.32.pom
+2016-08-23 15:36:50,059 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.32/tomcat-embed-websocket-8.0.32.pom
+2016-08-23 15:36:50,273 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.32/tomcat-embed-websocket-8.0.32.pom
+2016-08-23 15:36:50,489 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/1.3.3.RELEASE/spring-boot-starter-validation-1.3.3.RELEASE.pom
+2016-08-23 15:36:50,766 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/1.3.3.RELEASE/spring-boot-starter-validation-1.3.3.RELEASE.pom
+2016-08-23 15:36:51,023 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.pom
+2016-08-23 15:36:51,238 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.pom
+2016-08-23 15:36:51,453 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.2.4.Final/hibernate-validator-parent-5.2.4.Final.pom
+2016-08-23 15:36:51,698 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.2.4.Final/hibernate-validator-parent-5.2.4.Final.pom
+2016-08-23 15:36:51,916 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.9.Final/arquillian-bom-1.1.9.Final.pom
+2016-08-23 15:36:52,134 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.9.Final/arquillian-bom-1.1.9.Final.pom
+2016-08-23 15:36:53,131 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-08-23 15:36:53,384 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-08-23 15:36:53,641 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-08-23 15:36:53,850 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-08-23 15:36:54,064 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2016-08-23 15:36:54,323 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-08-23 15:36:54,607 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-08-23 15:36:54,854 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-08-23 15:36:55,062 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-08-23 15:36:55,276 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2016-08-23 15:36:55,558 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2016-08-23 15:36:55,807 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2016-08-23 15:36:56,056 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2016-08-23 15:36:56,263 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2016-08-23 15:36:56,519 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2016-08-23 15:36:56,764 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2016-08-23 15:36:56,980 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2016-08-23 15:36:57,196 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.1.0/classmate-1.1.0.pom
+2016-08-23 15:36:57,416 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.1.0/classmate-1.1.0.pom
+2016-08-23 15:36:57,699 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.pom
+2016-08-23 15:36:57,913 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.pom
+2016-08-23 15:36:58,131 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2016-08-23 15:36:58,348 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2016-08-23 15:36:58,597 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2016-08-23 15:36:58,812 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2016-08-23 15:36:59,029 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.pom
+2016-08-23 15:36:59,242 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.pom
+2016-08-23 15:36:59,456 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2016-08-23 15:36:59,675 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2016-08-23 15:36:59,892 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2016-08-23 15:37:00,108 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2016-08-23 15:37:00,328 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.pom
+2016-08-23 15:37:00,570 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.pom
+2016-08-23 15:37:00,880 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.4.4.RELEASE/spring-data-rest-webmvc-2.4.4.RELEASE.pom
+2016-08-23 15:37:01,096 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.4.4.RELEASE/spring-data-rest-webmvc-2.4.4.RELEASE.pom
+2016-08-23 15:37:01,313 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/2.4.4.RELEASE/spring-data-rest-parent-2.4.4.RELEASE.pom
+2016-08-23 15:37:01,526 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/2.4.4.RELEASE/spring-data-rest-parent-2.4.4.RELEASE.pom
+2016-08-23 15:37:01,742 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/2.4.4.RELEASE/spring-data-rest-core-2.4.4.RELEASE.pom
+2016-08-23 15:37:01,957 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/2.4.4.RELEASE/spring-data-rest-core-2.4.4.RELEASE.pom
+2016-08-23 15:37:02,174 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.19.0.RELEASE/spring-hateoas-0.19.0.RELEASE.pom
+2016-08-23 15:37:02,389 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.19.0.RELEASE/spring-hateoas-0.19.0.RELEASE.pom
+2016-08-23 15:37:02,606 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2016-08-23 15:37:02,819 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2016-08-23 15:37:03,035 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2016-08-23 15:37:03,248 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2016-08-23 15:37:03,465 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.1/evo-inflector-1.2.1.pom
+2016-08-23 15:37:03,707 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.1/evo-inflector-1.2.1.pom
+2016-08-23 15:37:03,926 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/parent/1.11/parent-1.11.pom
+2016-08-23 15:37:04,141 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/parent/1.11/parent-1.11.pom
+2016-08-23 15:37:04,358 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/json-patch/1.7/json-patch-1.7.pom
+2016-08-23 15:37:04,579 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/json-patch/1.7/json-patch-1.7.pom
+2016-08-23 15:37:04,797 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.pom
+2016-08-23 15:37:05,009 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.pom
+2016-08-23 15:37:05,227 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/msg-simple/1.1/msg-simple-1.1.pom
+2016-08-23 15:37:05,441 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/msg-simple/1.1/msg-simple-1.1.pom
+2016-08-23 15:37:05,664 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/btf/1.2/btf-1.2.pom
+2016-08-23 15:37:05,876 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/btf/1.2/btf-1.2.pom
+2016-08-23 15:37:06,149 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2016-08-23 15:37:06,412 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2016-08-23 15:37:06,630 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2016-08-23 15:37:06,842 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2016-08-23 15:37:07,058 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.3.3.RELEASE/spring-boot-starter-test-1.3.3.RELEASE.pom
+2016-08-23 15:37:07,271 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.3.3.RELEASE/spring-boot-starter-test-1.3.3.RELEASE.pom
+2016-08-23 15:37:07,541 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2016-08-23 15:37:07,757 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2016-08-23 15:37:07,984 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.pom
+2016-08-23 15:37:08,196 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.pom
+2016-08-23 15:37:08,411 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2016-08-23 15:37:08,690 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2016-08-23 15:37:08,906 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2016-08-23 15:37:09,124 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2016-08-23 15:37:09,510 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.jar
+2016-08-23 15:37:09,726 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.jar
+2016-08-23 15:37:09,931 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.3.3.RELEASE/spring-boot-starter-1.3.3.RELEASE.jar
+2016-08-23 15:37:10,148 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.3.3.RELEASE/spring-boot-starter-1.3.3.RELEASE.jar
+2016-08-23 15:37:10,355 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.jar
+2016-08-23 15:37:12,814 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.jar
+2016-08-23 15:37:13,020 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.jar
+2016-08-23 15:37:16,514 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.jar
+2016-08-23 15:37:16,719 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.3.3.RELEASE/spring-boot-starter-logging-1.3.3.RELEASE.jar
+2016-08-23 15:37:16,935 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.3.3.RELEASE/spring-boot-starter-logging-1.3.3.RELEASE.jar
+2016-08-23 15:37:17,139 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.5/logback-classic-1.1.5.jar
+2016-08-23 15:37:18,382 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.5/logback-classic-1.1.5.jar
+2016-08-23 15:37:18,597 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.5/logback-core-1.1.5.jar
+2016-08-23 15:37:20,842 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.5/logback-core-1.1.5.jar
+2016-08-23 15:37:21,046 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.jar
+2016-08-23 15:37:21,262 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.jar
+2016-08-23 15:37:21,467 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.16/log4j-over-slf4j-1.7.16.jar
+2016-08-23 15:37:21,820 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.16/log4j-over-slf4j-1.7.16.jar
+2016-08-23 15:37:22,024 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.16/snakeyaml-1.16.jar
+2016-08-23 15:37:23,258 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.16/snakeyaml-1.16.jar
+2016-08-23 15:37:23,462 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.3.3.RELEASE/spring-boot-starter-aop-1.3.3.RELEASE.jar
+2016-08-23 15:37:23,679 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.3.3.RELEASE/spring-boot-starter-aop-1.3.3.RELEASE.jar
+2016-08-23 15:37:23,886 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.8/aspectjweaver-1.8.8.jar
+2016-08-23 15:37:30,057 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.8/aspectjweaver-1.8.8.jar
+2016-08-23 15:37:30,262 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.3.3.RELEASE/spring-boot-starter-jdbc-1.3.3.RELEASE.jar
+2016-08-23 15:37:30,478 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.3.3.RELEASE/spring-boot-starter-jdbc-1.3.3.RELEASE.jar
+2016-08-23 15:37:30,683 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.0.32/tomcat-jdbc-8.0.32.jar
+2016-08-23 15:37:31,305 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.0.32/tomcat-jdbc-8.0.32.jar
+2016-08-23 15:37:31,510 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.0.32/tomcat-juli-8.0.32.jar
+2016-08-23 15:37:31,830 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.0.32/tomcat-juli-8.0.32.jar
+2016-08-23 15:37:32,036 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.jar
+2016-08-23 15:37:33,872 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.jar
+2016-08-23 15:37:34,078 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar
+2016-08-23 15:37:36,950 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar
+2016-08-23 15:37:37,155 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2016-08-23 15:37:37,572 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2016-08-23 15:37:37,776 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2016-08-23 15:37:51,915 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2016-08-23 15:37:52,121 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2016-08-23 15:37:53,951 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2016-08-23 15:37:54,155 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar
+2016-08-23 15:37:54,642 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar
+2016-08-23 15:37:54,847 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE.jar
+2016-08-23 15:37:55,876 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE.jar
+2016-08-23 15:37:56,082 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE.jar
+2016-08-23 15:37:58,551 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE.jar
+2016-08-23 15:37:58,756 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.2.5.RELEASE/spring-orm-4.2.5.RELEASE.jar
+2016-08-23 15:38:00,610 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.2.5.RELEASE/spring-orm-4.2.5.RELEASE.jar
+2016-08-23 15:38:00,815 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.jar
+2016-08-23 15:38:02,269 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.jar
+2016-08-23 15:38:02,892 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+2016-08-23 15:38:03,916 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+2016-08-23 15:38:04,120 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.jar
+2016-08-23 15:38:04,359 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.jar
+2016-08-23 15:38:04,563 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.2.5.RELEASE/spring-aspects-4.2.5.RELEASE.jar
+2016-08-23 15:38:05,179 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.2.5.RELEASE/spring-aspects-4.2.5.RELEASE.jar
+2016-08-23 15:38:05,384 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/1.3.3.RELEASE/spring-boot-starter-data-rest-1.3.3.RELEASE.jar
+2016-08-23 15:38:05,643 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/1.3.3.RELEASE/spring-boot-starter-data-rest-1.3.3.RELEASE.jar
+2016-08-23 15:38:05,847 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.3.3.RELEASE/spring-boot-starter-web-1.3.3.RELEASE.jar
+2016-08-23 15:38:06,153 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.3.3.RELEASE/spring-boot-starter-web-1.3.3.RELEASE.jar
+2016-08-23 15:38:06,357 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.3.3.RELEASE/spring-boot-starter-tomcat-1.3.3.RELEASE.jar
+2016-08-23 15:38:06,588 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.3.3.RELEASE/spring-boot-starter-tomcat-1.3.3.RELEASE.jar
+2016-08-23 15:38:06,796 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.32/tomcat-embed-core-8.0.32.jar
+2016-08-23 15:38:16,478 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.32/tomcat-embed-core-8.0.32.jar
+2016-08-23 15:38:16,685 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.32/tomcat-embed-el-8.0.32.jar
+2016-08-23 15:38:17,516 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.32/tomcat-embed-el-8.0.32.jar
+2016-08-23 15:38:17,725 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.32/tomcat-embed-logging-juli-8.0.32.jar
+2016-08-23 15:38:19,009 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.32/tomcat-embed-logging-juli-8.0.32.jar
+2016-08-23 15:38:19,214 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.32/tomcat-embed-websocket-8.0.32.jar
+2016-08-23 15:38:20,782 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.32/tomcat-embed-websocket-8.0.32.jar
+2016-08-23 15:38:20,987 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/1.3.3.RELEASE/spring-boot-starter-validation-1.3.3.RELEASE.jar
+2016-08-23 15:38:21,202 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/1.3.3.RELEASE/spring-boot-starter-validation-1.3.3.RELEASE.jar
+2016-08-23 15:38:21,411 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar
+2016-08-23 15:38:24,288 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar
+2016-08-23 15:38:24,496 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2016-08-23 15:38:25,573 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2016-08-23 15:38:25,776 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.1.0/classmate-1.1.0.jar
+2016-08-23 15:38:26,191 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.1.0/classmate-1.1.0.jar
+2016-08-23 15:38:26,396 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar
+2016-08-23 15:38:27,019 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar
+2016-08-23 15:38:27,224 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar
+2016-08-23 15:38:32,718 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar
+2016-08-23 15:38:32,922 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar
+2016-08-23 15:38:34,397 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar
+2016-08-23 15:38:34,601 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.4.4.RELEASE/spring-data-rest-webmvc-2.4.4.RELEASE.jar
+2016-08-23 15:38:36,660 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/2.4.4.RELEASE/spring-data-rest-webmvc-2.4.4.RELEASE.jar
+2016-08-23 15:38:36,865 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/2.4.4.RELEASE/spring-data-rest-core-2.4.4.RELEASE.jar
+2016-08-23 15:38:37,688 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/2.4.4.RELEASE/spring-data-rest-core-2.4.4.RELEASE.jar
+2016-08-23 15:38:37,899 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.19.0.RELEASE/spring-hateoas-0.19.0.RELEASE.jar
+2016-08-23 15:38:39,330 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/0.19.0.RELEASE/spring-hateoas-0.19.0.RELEASE.jar
+2016-08-23 15:38:39,535 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2016-08-23 15:38:39,816 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2016-08-23 15:38:40,021 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.1/evo-inflector-1.2.1.jar
+2016-08-23 15:38:40,250 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.1/evo-inflector-1.2.1.jar
+2016-08-23 15:38:40,455 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/json-patch/1.7/json-patch-1.7.jar
+2016-08-23 15:38:40,980 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/json-patch/1.7/json-patch-1.7.jar
+2016-08-23 15:38:41,187 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar
+2016-08-23 15:38:41,690 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar
+2016-08-23 15:38:41,895 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar
+2016-08-23 15:38:42,402 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar
+2016-08-23 15:38:42,606 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/fge/btf/1.2/btf-1.2.jar
+2016-08-23 15:38:42,834 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/fge/btf/1.2/btf-1.2.jar
+2016-08-23 15:38:43,043 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2016-08-23 15:38:53,483 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+2016-08-23 15:38:53,688 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.3.3.RELEASE/spring-boot-starter-test-1.3.3.RELEASE.jar
+2016-08-23 15:38:53,904 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.3.3.RELEASE/spring-boot-starter-test-1.3.3.RELEASE.jar
+2016-08-23 15:38:54,109 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2016-08-23 15:38:55,557 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2016-08-23 15:38:55,765 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar
+2016-08-23 15:39:00,894 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar
+2016-08-23 15:39:01,101 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.jar
+2016-08-23 15:39:02,677 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.jar
+2016-08-23 15:39:14,363 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.pom
+2016-08-23 15:39:14,580 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.pom
+2016-08-23 15:39:14,796 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
+2016-08-23 15:39:15,010 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
+2016-08-23 15:39:15,309 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:39:15,310 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:39:15,311 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:39:15,312 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:39:15,313 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:39:16,665 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.pom
+2016-08-23 15:39:16,887 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.pom
+2016-08-23 15:39:17,105 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.18.1/surefire-2.18.1.pom
+2016-08-23 15:39:17,544 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.18.1/surefire-2.18.1.pom
+2016-08-23 15:39:18,068 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2016-08-23 15:39:18,285 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2016-08-23 15:39:18,505 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.pom
+2016-08-23 15:39:18,718 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.pom
+2016-08-23 15:39:19,022 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.pom
+2016-08-23 15:39:19,236 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.pom
+2016-08-23 15:39:19,486 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2016-08-23 15:39:19,702 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2016-08-23 15:39:19,930 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2016-08-23 15:39:20,362 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2016-08-23 15:39:20,588 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2016-08-23 15:39:20,803 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2016-08-23 15:39:21,048 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2016-08-23 15:39:22,095 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2016-08-23 15:39:22,309 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.jar
+2016-08-23 15:39:22,949 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.jar
+2016-08-23 15:39:23,157 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.jar
+2016-08-23 15:39:24,402 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.jar
+2016-08-23 15:39:24,614 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2016-08-23 15:39:27,122 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2016-08-23 15:39:27,330 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2016-08-23 15:39:28,376 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2016-08-23 15:39:31,504 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:39:31,504 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:39:31,504 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:39:31,519 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:39:31,520 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-23 15:41:19,662 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:41:19,662 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:41:19,662 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:41:19,664 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:41:19,664 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:41:54,432 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-23 15:41:56,175 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2016-08-23 15:41:56,391 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2016-08-23 15:41:56,745 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2016-08-23 15:41:59,951 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2016-08-23 15:42:00,843 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:42:00,845 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:42:00,845 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:42:00,848 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:42:00,848 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:42:03,171 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:42:03,171 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:42:03,171 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:42:03,183 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:42:03,184 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-23 15:47:21,966 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:21,967 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:47:21,967 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:47:21,969 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:21,970 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:47:26,433 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:26,433 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:47:26,434 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:47:26,436 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:26,436 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:47:58,798 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:58,799 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:47:58,854 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:47:58,856 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:47:58,856 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:48:52,470 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:48:52,471 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:48:52,473 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:48:52,475 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:48:52,476 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:49:45,464 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:49:45,464 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:49:45,467 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:49:45,469 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:49:45,469 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:49:46,791 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:49:46,792 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:49:46,793 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:49:46,796 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:49:46,796 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:17,128 [Worker-68] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2016-08-23 15:50:22,694 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:22,695 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:50:22,696 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:22,698 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:22,698 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:26,661 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:26,661 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:50:26,662 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:26,664 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:26,665 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:32,182 [Worker-68] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2016-08-23 15:50:32,345 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.3.11.Final
+2016-08-23 15:50:32,717 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:32,717 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:32,718 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:32,719 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:32,719 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:50:46,351 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:46,351 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:50:46,352 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:50:46,354 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:50:46,354 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:51:45,910 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:51:45,910 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:51:45,911 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:51:45,913 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:51:45,913 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:55:34,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:55:34,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:55:34,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:55:34,260 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:55:34,261 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:55:40,399 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:55:40,399 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:55:40,399 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:55:40,400 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:55:40,400 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:56:25,107 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:56:25,107 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:56:25,108 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:56:25,113 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:56:25,114 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:57:36,892 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:57:36,892 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 15:57:36,893 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 15:57:36,895 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 15:57:36,895 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:00:21,534 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:00:21,534 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 16:00:21,535 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:00:21,537 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:00:21,538 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:01:15,795 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:01:15,796 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 16:01:15,799 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:01:15,802 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:01:15,802 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:01:21,515 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:01:21,515 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 16:01:21,517 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 16:01:21,519 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 16:01:21,519 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 17:09:56,904 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-23 17:10:11,354 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:10:11,359 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:10:11,389 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:10:11,397 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:10:11,398 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:11:10,434 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-23 17:11:24,370 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-23 17:11:24,370 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2016-08-23 17:11:41,925 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-08-23 17:11:42,622 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-23 17:11:43,684 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vstorage/src/main/java
+2016-08-23 17:11:43,686 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/main/resources
+2016-08-23 17:11:43,687 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/main/resources
+2016-08-23 17:11:43,688 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vstorage/src/test/java
+2016-08-23 17:11:43,688 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /vstorage/src/test/resources
+2016-08-23 17:11:44,533 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-08-23 17:11:57,361 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:11:57,362 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:11:57,400 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:11:57,411 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:11:57,412 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:11:57,548 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-23 17:11:57,548 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-23 17:19:21,189 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:19:21,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:19:21,196 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:19:21,202 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:19:21,203 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-23 17:19:25,323 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:19:25,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 17:19:25,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 17:19:25,326 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-23 17:19:25,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-23 17:19:29,752 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-23 17:19:29,752 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-24 09:26:55,042 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:26:55,069 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:26:55,085 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:26:55,088 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:26:55,089 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:27:03,594 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:27:03,627 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:27:03,633 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:27:03,636 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:27:03,636 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:28:03,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:28:03,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:28:03,604 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:28:03,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:28:03,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:28:10,284 [JavaFX Application Thread] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-24 09:28:10,306 [JavaFX Application Thread] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-24 09:28:46,832 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.5/maven-war-plugin-2.5.jar
+2016-08-24 09:28:47,428 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.5/maven-war-plugin-2.5.jar
+2016-08-24 09:28:50,283 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:28:51,501 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.5/maven-war-plugin-2.5.pom
+2016-08-24 09:28:51,696 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.5/maven-war-plugin-2.5.pom
+2016-08-24 09:28:52,570 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.1.3/plexus-io-2.1.3.pom
+2016-08-24 09:28:52,801 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.1.3/plexus-io-2.1.3.pom
+2016-08-24 09:28:53,007 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+2016-08-24 09:28:53,239 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+2016-08-24 09:28:53,570 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.6.3/plexus-archiver-2.6.3.pom
+2016-08-24 09:28:53,763 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.6.3/plexus-archiver-2.6.3.pom
+2016-08-24 09:28:53,970 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+2016-08-24 09:28:54,172 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+2016-08-24 09:28:54,369 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2016-08-24 09:28:54,758 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2016-08-24 09:28:55,003 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.pom
+2016-08-24 09:28:55,199 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.pom
+2016-08-24 09:28:55,397 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.4/xstream-parent-1.4.4.pom
+2016-08-24 09:28:55,593 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.4/xstream-parent-1.4.4.pom
+2016-08-24 09:28:55,794 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2016-08-24 09:28:55,990 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2016-08-24 09:28:56,187 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2016-08-24 09:28:56,378 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2016-08-24 09:28:56,619 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.pom
+2016-08-24 09:28:56,817 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.pom
+2016-08-24 09:28:57,016 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.pom
+2016-08-24 09:28:57,213 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.pom
+2016-08-24 09:28:57,435 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.pom
+2016-08-24 09:28:57,635 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.pom
+2016-08-24 09:28:57,885 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.1.3/plexus-io-2.1.3.jar
+2016-08-24 09:28:58,453 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.1.3/plexus-io-2.1.3.jar
+2016-08-24 09:28:58,643 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.6.3/plexus-archiver-2.6.3.jar
+2016-08-24 09:28:59,397 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.6.3/plexus-archiver-2.6.3.jar
+2016-08-24 09:28:59,584 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+2016-08-24 09:29:01,088 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+2016-08-24 09:29:01,281 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2016-08-24 09:29:01,657 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2016-08-24 09:29:02,033 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.jar
+2016-08-24 09:29:07,483 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.jar
+2016-08-24 09:29:07,668 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2016-08-24 09:29:07,872 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2016-08-24 09:29:08,058 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
+2016-08-24 09:29:10,688 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
+2016-08-24 09:29:10,877 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.jar
+2016-08-24 09:29:11,508 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.jar
+2016-08-24 09:29:11,696 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.jar
+2016-08-24 09:29:13,552 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.jar
+2016-08-24 09:29:13,738 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.jar
+2016-08-24 09:29:13,945 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.jar
+2016-08-24 09:29:17,623 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:17,625 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:17,625 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:17,628 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:17,628 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:17,632 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:29:17,633 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:29:17,641 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:17,647 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:17,658 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:17,662 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:17,666 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:17,670 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:17,721 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:17,726 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:17,732 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:17,737 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:17,741 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:17,745 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:17,752 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:18,989 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:29:20,036 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:20,038 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:20,039 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:20,041 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:20,042 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:20,042 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:29:20,042 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:29:20,045 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:20,051 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:20,055 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:20,058 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:20,063 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:20,068 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:20,072 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:20,077 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:20,082 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:20,087 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:20,092 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:20,097 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:20,105 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:29,537 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:29:30,618 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:30,620 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:30,621 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:30,623 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:30,623 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:30,624 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:29:30,624 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:29:30,626 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:30,631 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:30,637 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:30,641 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:30,647 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:30,653 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:30,658 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:30,663 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:30,669 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:30,673 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:30,679 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:30,684 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:30,692 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:42,561 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:29:43,762 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:43,765 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:43,765 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:43,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:43,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:43,769 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:29:43,769 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:29:43,772 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:43,777 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:43,782 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:43,788 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:43,793 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:43,798 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:43,804 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:43,808 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:43,814 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:43,817 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:43,821 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:43,826 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:43,834 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:46,026 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:46,027 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:29:46,043 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:29:46,053 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:46,054 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:29:49,677 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:29:50,723 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:50,725 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:50,725 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:50,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:50,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:29:50,728 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:29:50,728 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:29:50,730 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:50,734 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:50,745 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:50,752 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:50,767 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:50,788 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:50,795 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:29:50,802 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:29:50,812 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:29:50,819 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:29:50,825 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:29:50,832 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:29:50,841 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:52,364 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:52,365 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:29:52,396 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:29:52,407 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:29:52,408 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:30:04,695 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:30:04,695 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-24 09:30:43,716 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:30:44,726 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:44,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:30:44,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:30:44,730 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:44,731 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:30:44,731 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:30:44,731 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:30:44,734 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:30:44,738 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:30:44,746 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:30:44,755 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:30:44,763 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:30:44,768 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:30:44,772 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:30:44,776 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:30:44,780 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:30:44,784 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:30:44,789 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:30:44,794 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:30:44,801 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:48,367 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:30:49,324 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:49,326 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:30:49,340 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:30:49,347 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:49,347 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:30:49,349 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of vstorage
+2016-08-24 09:30:49,349 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for vstorage
+2016-08-24 09:30:49,352 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:30:49,357 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:30:49,362 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:30:49,367 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:30:49,372 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:30:49,376 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:30:49,381 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-help-plugin:jar:2.2 is missing, no dependency information available
+2016-08-24 09:30:49,384 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:2.2: Plugin org.apache.maven.plugins:maven-help-plugin:2.2 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-help-plugin:jar:2.2 has not been downloaded from it before.
+2016-08-24 09:30:49,390 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:xml-maven-plugin:jar:1.0 is missing, no dependency information available
+2016-08-24 09:30:49,394 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0: Plugin org.codehaus.mojo:xml-maven-plugin:1.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:xml-maven-plugin:jar:1.0 has not been downloaded from it before.
+2016-08-24 09:30:49,399 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 is missing, no dependency information available
+2016-08-24 09:30:49,403 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:1.9.1: Plugin org.codehaus.mojo:build-helper-maven-plugin:1.9.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:build-helper-maven-plugin:jar:1.9.1 has not been downloaded from it before.
+2016-08-24 09:30:49,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:30:51,104 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:30:51,104 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-24 09:32:50,369 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vstorage:vstorage:0.0.1-SNAPSHOT @ D:\Vincent\personal\work\vstorage\source\pom.xml.
+2016-08-24 09:32:51,201 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:32:51,202 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:32:51,202 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:32:51,204 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:32:51,204 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 09:32:53,094 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:32:53,094 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-24 09:34:32,757 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:34:32,757 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-08-24 09:35:02,417 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:35:02,417 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2016-08-24 09:36:13,696 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2016-08-24 09:36:13,718 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2016-08-24 09:36:24,274 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:36:24,283 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:36:24,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:36:24,335 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 09:36:24,335 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 09:37:55,399 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Vincent\personal\work\vstorage\source
+2016-08-24 09:37:55,400 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install

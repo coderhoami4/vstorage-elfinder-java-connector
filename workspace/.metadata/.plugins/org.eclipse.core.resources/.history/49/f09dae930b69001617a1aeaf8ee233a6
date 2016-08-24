@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/restdb2
+spring.datasource.username=root
+spring.datasource.password=
