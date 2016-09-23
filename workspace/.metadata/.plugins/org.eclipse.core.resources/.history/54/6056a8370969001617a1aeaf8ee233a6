@@ -1,2 +1,0 @@
-spring.datasource.url_bk: jdbc:hsqldb:mem:restdb
-spring.datasource.url: jdbc:mysql:restdb

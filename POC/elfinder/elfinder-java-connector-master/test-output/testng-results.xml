@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2627" started-at="2016-09-09T08:31:46Z" finished-at="2016-09-09T08:31:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2627" started-at="2016-09-09T08:31:46Z" finished-at="2016-09-09T08:31:49Z">
+      <class name="br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest@15c7da7]" name="setUp" is-config="true" duration-ms="1164" started-at="2016-09-09T15:31:46Z" finished-at="2016-09-09T15:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fromPathTest()[pri:0, instance:br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest@15c7da7]" name="fromPathTest" duration-ms="300" started-at="2016-09-09T15:31:48Z" finished-at="2016-09-09T15:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromPathTest -->
+        <test-method status="PASS" signature="getSizeTest()[pri:0, instance:br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest@15c7da7]" name="getSizeTest" duration-ms="270" started-at="2016-09-09T15:31:48Z" finished-at="2016-09-09T15:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSizeTest -->
+        <test-method status="PASS" signature="openInputStreamTest()[pri:0, instance:br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest@15c7da7]" name="openInputStreamTest" duration-ms="874" started-at="2016-09-09T15:31:48Z" finished-at="2016-09-09T15:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openInputStreamTest -->
+      </class> <!-- br.com.trustsystems.elfinder.service.GoogleDriveVolumeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
