@@ -54,7 +54,9 @@
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <maven-source-plugin.version>3.0.0</maven-source-plugin.version>
         <maven-jar-plugin.version>2.6</maven-jar-plugin.version>
+        <!-- 
         <maven-jaxb2-plugin.version>0.12.3</maven-jaxb2-plugin.version>
+         -->
         <maven-javadoc-plugin.version>2.10.3</maven-javadoc-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <license-maven-plugin.version>1.8</license-maven-plugin.version>
@@ -257,6 +259,7 @@
                     </excludes>
                 </configuration>
             </plugin>
+            <!-- 
             <plugin>
                 <groupId>org.jvnet.jaxb2.maven2</groupId>
                 <artifactId>maven-jaxb2-plugin</artifactId>
@@ -277,6 +280,7 @@
                     </execution>
                 </executions>
             </plugin>
+             -->
             <plugin>
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <version>${maven-javadoc-plugin.version}</version>

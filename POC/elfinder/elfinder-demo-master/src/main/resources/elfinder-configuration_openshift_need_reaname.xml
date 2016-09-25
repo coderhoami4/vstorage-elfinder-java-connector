@@ -41,6 +41,7 @@
         <source>filesystem</source>
         <alias>Root</alias>
         <path>/var/lib/openshift/574b9f757628e128170000b6/wildfly/test</path>
+        <!-- <path>D:/test</path> -->
         <locale>en_US</locale>
         <constraint>
             <locked>false</locked>

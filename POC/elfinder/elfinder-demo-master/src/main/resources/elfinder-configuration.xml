@@ -39,8 +39,8 @@
     </thumbnail>
     <volume>
         <source>filesystem</source>
-        <alias>Root</alias>
-        <path>D:/test</path>
+        <alias>Root (Hard Disk)</alias>
+        <path>/var/lib/openshift/574b9f757628e128170000b6/wildfly/test</path>
         <locale>en_US</locale>
         <constraint>
             <locked>false</locked>
@@ -48,8 +48,20 @@
             <writable>true</writable>
         </constraint>
     </volume>
-    <!-- 
     <volume>
+        <source>googledrive</source>
+        <alias>Google Drive</alias>
+        <path>/var/lib/openshift/574b9f757628e128170000b6/wildfly/.credentials/hoamicoder1.json</path>
+        <locale>en_US</locale>
+        <constraint>
+            <locked>false</locked>
+            <readable>true</readable>
+            <writable>true</writable>
+        </constraint>
+    </volume>
+   
+    <!-- 
+     <volume>
         <source>filesystem</source>
         <alias>Root2</alias>
         <path>D:/test</path>
@@ -61,17 +73,6 @@
         </constraint>
     </volume>
      -->
-    <volume>
-        <source>googledrive</source>
-        <alias>HoaMi</alias>
-        <path>hoamicoder1.json</path>
-        <locale>en_US</locale>
-        <constraint>
-            <locked>false</locked>
-            <readable>true</readable>
-            <writable>true</writable>
-        </constraint>
-    </volume>
     <!-- 
      -->
 </elfinder-configuration>

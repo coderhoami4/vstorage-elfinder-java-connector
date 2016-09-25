@@ -26,7 +26,9 @@
 	level="DEBUG"/> <logger name="org.springframework" level="INFO"/> <root level="INFO"> 
 	<appender-ref ref="STDOUT"/> </root> </configuration> -->
 <configuration>
-	<property name="DEV_HOME" value="D:/dev-env/logs" />
+	<property name="DEV_HOME_LOCAL" value="D:/dev-env/jboss/wildfly-9.0.2.Final/standalone/log" />
+	<property name="DEV_HOME_OPENSHIFT" value="/var/lib/openshift/574b9f757628e128170000b6/wildfly/standalone/log" />
+	<property name="DEV_HOME" value="/var/lib/openshift/574b9f757628e128170000b6/wildfly/standalone/log" />
 	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
 		<encoder>
 			<charset>UTF-8</charset>
@@ -99,10 +101,13 @@
 	</logger>
 	
 
-	<logger name="org.springframework" level="ERROR" />
+	<logger name="org.springframework" level="ERROR">
+		<appender-ref ref="FILE" />
+		<appender-ref ref="STDOUT" />
+	</logger>
 
 	<root level="ERROR">
-		<!-- <appender-ref ref="FILE" /> -->
+		<appender-ref ref="FILE" /> 
 		<appender-ref ref="STDOUT" />
 	</root>
 

@@ -52,20 +52,40 @@ public class GoogleDriverService {
         }
     }
 	
-	public GoogleDriverService(String dataStorePath) {
-		//this("Manage File", System.getProperty("user.home"), ".credentials/" + dataStorePath);
-		this("Manage File", System.getProperty("user.home"), ".credentials/" + dataStorePath);
-		
-	}
+//	public GoogleDriverService(String dataStorePath) {
+//		//this("Manage File", System.getProperty("user.home"), ".credentials/" + dataStorePath);
+//		this("Manage File", System.getProperty("user.home"), ".credentials/" + dataStorePath);
+//		
+//	}
 	
-	public GoogleDriverService(String applicationName, String parentDataStorePath, String dataStorePath) {
-		this.applicationName = applicationName;
-		this.dataStoreDir = new java.io.File(parentDataStorePath, dataStorePath);
+	public GoogleDriverService(String dataStorePath) {
+		this.applicationName = "Manage File";
+		this.dataStoreDir = new java.io.File(dataStorePath);
+		if (this.dataStoreDir.exists() == false) {
+			this.dataStoreDir.mkdirs();
+		}
 		try {
 			this.dataStoreFactory = new FileDataStoreFactory(dataStoreDir);
 		} catch (IOException e) {
 			 e.printStackTrace();
-	            System.exit(1);
+		}
+	}
+	
+	public GoogleDriverService(String applicationName, String parentDataStorePath, String dataStorePath) {
+		this.applicationName = applicationName;
+		java.io.File parentDataStore = new java.io.File(parentDataStorePath);
+		if (parentDataStore.exists() == false) {
+			parentDataStore.mkdirs();
+		}
+		this.dataStoreDir = new java.io.File(parentDataStorePath, dataStorePath);
+		if (this.dataStoreDir.exists() == false) {
+			this.dataStoreDir.mkdirs();
+		}
+		try {
+			this.dataStoreFactory = new FileDataStoreFactory(dataStoreDir);
+		} catch (IOException e) {
+			 e.printStackTrace();
+	            //System.exit(1);
 		}
 	}
 	

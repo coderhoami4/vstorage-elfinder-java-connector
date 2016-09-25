@@ -38,5 +38,9 @@
 <body>
 	<!-- Element where elFinder will be created (REQUIRED) -->
 	<div id="elfinder"></div>
+	<div>
+		<h2>Volume: Root (Hard Disk): can new/rename/delete/download file and folder</h2>
+		<h2>Volume: Google Driver: This one is a cloud Volumn (Google Driver API), for now only can explore a folder and download file; other features still not implement </h2>
+	</div>
 </body>
 </html>
