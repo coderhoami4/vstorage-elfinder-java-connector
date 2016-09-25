@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;vstorage/src/main/java/vstorage/data/jpa/Initializer.java&apos;" deleteContents="false" description="Delete resource &apos;vstorage/src/main/java/vstorage/data/jpa/Initializer.java&apos;" element1="/vstorage/src/main/java/vstorage/data/jpa/Initializer.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1472005682282"/>
-</session>
