@@ -9,5 +9,7 @@ This implementation integrates Google Dirve as a Cloud volumne to java-connector
 
 The main customization is in folder: https://github.com/coderhoami4/vstorage-elfinder-java-connector/tree/master/elfinder/elfinder-java-connector-master/src/main/java/br/com/trustsystems/elfinder/core/impl/googledriver
 
+![alt tag](https://github.com/coderhoami4/vstorage-elfinder-java-connector/blob/master/vstorage.png)
+
 
 
